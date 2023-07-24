@@ -5,7 +5,7 @@ const nextConfig = {
     appDir: true,
   },
   env: {
-    DB_URI: "mongodb://localhost:27017/next13-auth",
+    DB_URI: "mongodb+srv://saadsalman98:<password>@cluster0.muc23g4.mongodb.net/?retryWrites=true&w=majority",
     NEXTAUTH_SECRET: "codingwithabbas",
   },
 };
